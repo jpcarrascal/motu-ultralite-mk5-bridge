@@ -1,5 +1,6 @@
 import { WebSocketServer } from 'ws';
 import WebSocket from 'ws';
+// Make sure this ip matches the one in your UltraLite mk5:
 const ip = "169.254.43.109";
 const wss = new WebSocketServer({ port: 8080 });
 

@@ -1,0 +1,29 @@
+{
+  "name": "ultralite-mk5-bridge",
+  "version": "0.1.0",
+  "description": "MOTU UltraLite mk2 WebSockets bridge",
+  "main": "index.js",
+  "author": "JP Carrascal",
+  "type": "module",
+  "dependencies": {
+    "ws": "^8.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpcarrascal/motu-ultralite-mk5-bridge.git"
+  },
+  "keywords": [
+    "motu",
+    "ultralite",
+    "ultralite-mk5",
+    "websockets"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpcarrascal/motu-ultralite-mk5-bridge/issues"
+  },
+  "homepage": "https://github.com/jpcarrascal/motu-ultralite-mk5-bridge#readme"
+}

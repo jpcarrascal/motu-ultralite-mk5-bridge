@@ -13,6 +13,7 @@ This bridge application can be run on a computer connected to MOTU UltraLite mk2
 If everything is set up correctly, your mobile app should be connected to your UltraLite.
 
 ** _You might need to [install node.js](https://nodejs.org/en/download/), and [here are instructions on how to run a node.js app](https://stackoverflow.com/questions/57975889/how-to-run-an-existing-node-app-from-github_
+
 *_Your computer's ip address works as well. However, since it might change from time to time, the network name might be easier to remember._
 
 ![How to change ip address](https://github.com/jpcarrascal/motu-ultralite-mk5-bridge/blob/74a62fdbc9df19b439f9d03b278dfd6e414a7a49/remote-conf.png)

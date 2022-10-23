@@ -14,7 +14,7 @@
 
 ## What is this repo for?
 
-This bridge application runs on a computer connected (most likely Linux) to MOTU UltraLite mk2 audio interface and relays WebSockets messages bidirectionally between a remote/mobile CueMix 5 app (e.g. on an iPad or iPhone) and the UltraLite. It allows you to control your UltraLite wirelessly/remotely.
+This bridge application runs on a (Linux) computer connected to MOTU UltraLite mk2 audio interface and relays WebSockets messages bidirectionally between a remote/mobile CueMix 5 app (e.g. on an iPad or iPhone) and the UltraLite. It allows you to control your UltraLite wirelessly/remotely.
 
 ## Instructions:
 

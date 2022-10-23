@@ -10,7 +10,7 @@ This bridge application can be run on a computer connected to MOTU UltraLite mk2
 - In the welcome screen, click on "IP Connect". Replace the IP there with your computer's network name**, plus ```:8080``` (which is the port that the node.js app is listening on). You should end up with something like this ```computer-name.local:8080``` (see image below).
 - Hit enter
 
-If everything is set up correctly, your mobile app should be connected to your UltraLite.
+If everything is set up correctly, your mobile app should connected to your UltraLite through your computer.
 
 *_You might need to [install node.js](https://nodejs.org/en/download/), and [here are instructions on how to run a node.js app](https://stackoverflow.com/questions/57975889/how-to-run-an-existing-node-app-from-github_
 

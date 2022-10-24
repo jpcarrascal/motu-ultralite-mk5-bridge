@@ -1,7 +1,7 @@
 
 # MOTU UltraLite mk5 WebSockets bridge
 
-This bridge application runs on a (Linux) computer connected to MOTU UltraLite mk2 audio interface and relays WebSockets messages bidirectionally between a remote/mobile CueMix 5 app (e.g. on an iPad or iPhone) and the UltraLite. It allows you to control your UltraLite wirelessly/remotely.
+This bridge application can be run on a (Linux) computer connected to MOTU UltraLite mk2 audio interface to relay WebSockets messages bidirectionally between a remote/mobile CueMix 5 app (e.g. on an iPad or iPhone) and the UltraLite. It allows you to control your UltraLite wirelessly/remotely.
 
 **NOTE: If you are using a macOS or Windows computer with your UltraLite, there is a simple way to do this (although quite obscure, I found it in [this forum](https://www.elektronauts.com/t/new-motu-ultralite-mk5-announced/151608/325)). Just:**
 1. Take note of the network name of your computer*. [Here are instructions on how to do it](https://drexel.edu/it/help/a-z/computer-names/).
